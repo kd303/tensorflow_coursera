@@ -1,2 +1,2 @@
-# tensorflow_coursera
-Repository for coursera
+# Tensorflow In Practic
+Excercise and ipython notebooks from Coursera Course.
